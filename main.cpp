@@ -19,7 +19,5 @@ int main(int argc,char **argv)
   delete p;
   delete p1;
 
-  //auto p2 = Factory::produce_unique("Message1");
-  //p2->foo();
   return 0;
 }
